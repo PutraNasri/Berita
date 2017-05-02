@@ -10,4 +10,5 @@ public class IsiBerita extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_isi_berita);
     }
+    //
 }
